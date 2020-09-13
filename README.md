@@ -1,4 +1,4 @@
-# HospitalTecnologico-microservicios
+# HospitalMS API  Microservices
 Que va a tener 3 controlladores para las 3 vistas del front-end:
 - Vista Paciente:
   * Crear  Cuenta  (Agregar  Paciente):el sistema  debe  permitir  darse  de  alta  a cualquier  persona  que  así  lo  desee.  De  un  paciente  se  desea  saber:  nombre, apellidos, cédula, teléfono, dirección, fecha de nacimiento y patologías que tiene, así como le tratamiento que toma para esa patología.
